@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <link rel="stylesheet" href="https://bootswatch.com/4/litera/bootstrap.min.css">
+
+  <title>Sunha Shin</title>
+
+  <style type="text/css">
+    ul {line-height: 2;}     
+  </style>
+
+</head>
+<body>  
+
+  <nav class="navbar navbar-dark bg-primary mb-3">
+    <div class="container">
+      <a href="#" class="navbar-brand" id="banner1">
+        Shopify Technical Challenge
+      </a>
+    </div>  
+  </nav>
+   
+
+  <!-- Search container -->
+  <div class="container searchContainer"><br>
+    <h3>The Shoppies</h3><br>
+    <div class="search card card-body">
+        <h5>Movie title</h5>
+      
+      <input type="text" id="movieTitle" class="form-control" placeholder="Enter movie title...">
+    </div><br>   
+  </div>
+
+  <div id="profile"></div>
+
+  <!-- Result & Nomination containers -->
+  <div class="container"> 
+    <div class="row"> 
+
+      <!-- Result -->    
+      <div class="col-lg-6 mb-4" id="result"> 
+        <div class="card"> 
+          <div class="card-body"> 
+              <h5 class="card-title">Result for <span id="input"></span></h5> 
+              <p class="card-text" id="p">
+                <ul id="reul"></ul>
+              </p>
+              </p> 
+          </div>
+        </div>
+      </div>   
+
+      <!-- Nomination --> 
+      <div class="col-lg-6 mb-4" id="noms"> 
+        <div class="card"> 
+          <div class="card-body"> 
+            <h5 class="card-title">Nominations</h5>    
+            <p class="card-text" id="nomp"> 
+              <ul id="nomul"></ul>             
+            </p>                    
+          </div> 
+        </div> 
+      </div> 
+
+    </div>
+  </div> 
+
+</div>
+
+  <footer class="mt-5 p-3 text-center bg-light">
+    Sunha Shin - Shopify Technical Challenge &copy;
+  </footer>
+  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+  <script src="movie.js"></script>
+  <script src="ui.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
