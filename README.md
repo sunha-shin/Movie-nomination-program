@@ -17,7 +17,7 @@ User can view the list of films already nominated.
 **4. Remove a nominee from nomination list**
 
 # Used technologies
-- JavaScript 
+- JavaScript(ES6)
   - Delegation / Bubbling
   - Keyboard event
 - HTML5 / Bootstrap
