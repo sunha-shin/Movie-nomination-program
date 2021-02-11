@@ -20,8 +20,8 @@ Then it enables its nominate button.
 ## Used technologies
 - JavaScript (ES6)
   - Keyboard event    
-  - AJAX
   - XML HttpRequest & fetch
+  - AJAX  
   - Delegation / Bubbling
   - Local storage
 - HTML5 / Bootstrap
