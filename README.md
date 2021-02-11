@@ -27,4 +27,6 @@ Then it enables its nominate button.
 - HTML5 / Bootstrap
 - REST APIs - from http://www.omdbapi.com/
 
+## Live demo
+https://shinsun.dev.fast.sheridanc.on.ca/Portfolio/frontend/
 
