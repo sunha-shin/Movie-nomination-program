@@ -20,6 +20,7 @@ User can view the list of films already nominated.
 - JavaScript(ES6)
   - Delegation / Bubbling
   - Keyboard event
+  - Local storage
 - HTML5 / Bootstrap
 - REST APIs
 
