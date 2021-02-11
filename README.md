@@ -5,13 +5,13 @@
 A movie nomination applicaition that allows the user to save their favourite films they feel should be up for nomination. Users can select five nominees maximum.
 
 # Functionalities
-**1. Search and display films:**
+**1. Search and display films:**<br>
 Search result comes from OMDB's API. Each search result lists title, year of release and a button to nominate that film.
 
-**2. Add a movie:**
+**2. Add a movie:**<br>
 Movies in search results can be added and removed from the nomination list. If a search result has already been nominated, it disables its nominate button.
 
-**3. View the list of films:**
+**3. View the list of films:**<br>
 User can view the list of films already nominated.
 
 **4. Remove a nominee from nomination list**
