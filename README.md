@@ -19,8 +19,8 @@ Then it enables its nominate button.
 
 # Used technologies
 - JavaScript(ES6)
-  - Delegation / Bubbling
   - Keyboard event
+  - Delegation / Bubbling
   - Local storage
 - HTML5 / Bootstrap
 - REST APIs - from http://www.omdbapi.com/
