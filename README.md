@@ -14,7 +14,7 @@ Movies in search results can be added and removed from the nomination list. If a
 **3. View the list of films:**<br>
 User can view the list of films already nominated.
 
-**4. Remove a nominee from nomination list**<br>
+**4. Remove a nominee from nomination list:**<br>
 Then it enables its nominate button.
 
 # Used technologies
