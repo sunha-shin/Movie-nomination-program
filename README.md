@@ -18,7 +18,7 @@ User can view the list of films already nominated.
 Then it enables its nominate button.
 
 ## Used technologies
-- JavaScript(ES6)
+- JavaScript (ES6)
   - Keyboard event    
   - AJAX
   - XML HttpRequest & fetch
