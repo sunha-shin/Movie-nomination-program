@@ -18,7 +18,7 @@ User can view the list of films already nominated.
 
 # Used technologies
 - JavaScript 
- - Delegation / Bubbling
+- Delegation / Bubbling
  - Keyboard event
 - HTML5 / Bootstrap
 - REST APIs
