@@ -22,6 +22,6 @@ User can view the list of films already nominated.
   - Keyboard event
   - Local storage
 - HTML5 / Bootstrap
-- REST APIs
+- REST APIs (from http://www.omdbapi.com/)
 
 
